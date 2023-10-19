@@ -29,9 +29,9 @@
   <img height=170em align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Cardoso-de-Jesus&layout=compact&theme=midnight-purple"/> 
   </div>
 
-<div style="width:180">
+
  ![gif](https://media.tenor.com/Z6Sx7xwWTFAAAAAC/banner.gif)
-</div>
+
 
 ##
 

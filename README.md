@@ -1,4 +1,4 @@
-<h1> 🟪<span style="color:red">Bem-vindo ao meu perfil, eu me chamo Arthur!</span>🟪</h1>
+<h1> 🟪<span style="color:green">Bem-vindo ao meu perfil, eu me chamo Arthur!</span>🟪</h1>
 
  ```diff
 @@ " Everybody loves a bad idea when it works - Cayde-6 " @@

@@ -38,6 +38,10 @@
    <img height=310em src="https://media.tenor.com/Z6Sx7xwWTFAAAAAC/banner.gif"/> 
 
 
+
+![Visitor Count](https://profile-counter.glitch.me/Arthur-Cardoso-de-Jesus/count.svg)
+
+
 </div>
 
 <hr>

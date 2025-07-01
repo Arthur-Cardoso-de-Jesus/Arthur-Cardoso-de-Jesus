@@ -4,7 +4,7 @@
 @@ " Everybody loves a bad idea when it works - Cayde-6 " @@
 ```
 
-* **Estudando 📚**: curso Técnico em informática.<BR>
+* **Estudando 📚**: Analise e desenvolvimento de sitemas.<BR>
 * **Línguas 🗣**: português fluente, inglês avançado.<br>
 * **Interesses✔️**: jogos, filmes Sci-fi e automobilismo.<br>
 * **Preferência**: backEnd.👩‍💻<br>

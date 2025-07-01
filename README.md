@@ -9,7 +9,7 @@
 * **Interesses✔️**: jogos, filmes Sci-fi e automobilismo.<br>
 * **Preferência**: backEnd.👩‍💻<br>
   
-* **gmail✉️**:arthurcardosoj@gmail.com<br>
+* **gmail✉️**:arthurcardosoj@proton.me<br>
 
  
 
